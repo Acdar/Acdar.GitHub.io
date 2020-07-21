@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Acdar.GitHub.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-21T16:06:20.242Z</updated>
+    <title>Acdar</title>
+    <updated>2020-07-21T16:18:27.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Acdar.GitHub.io"/>
     <link rel="self" href="https://Acdar.GitHub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://Acdar.GitHub.io/images/avatar.png</logo>
     <icon>https://Acdar.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Acdar</rights>
     <entry>
         <title type="html"><![CDATA[第一个博客]]></title>
         <id>https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan/</id>
