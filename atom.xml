@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Acdar.GitHub.io</id>
     <title>Acdar</title>
-    <updated>2020-07-24T11:04:09.968Z</updated>
+    <updated>2020-07-27T17:04:28.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Acdar.GitHub.io"/>
     <link rel="self" href="https://Acdar.GitHub.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://Acdar.GitHub.io/images/avatar.png</logo>
     <icon>https://Acdar.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Acdar</rights>
+    <entry>
+        <title type="html"><![CDATA[新的一年，新的桌面]]></title>
+        <id>https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian/</id>
+        <link href="https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian/">
+        </link>
+        <updated>2020-07-27T16:10:28.000Z</updated>
+        <content type="html"><![CDATA[<p>虽然过了半年才弄好....，但我觉得还挺满意的<br>
+主题：<a href="https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272">Nord Windows 10 Theme by niivu</a><br>
+图标：<a href="https://www.deviantart.com/niivu/art/Nord-Icon-Theme-837265260">Nord Icon Theme</a><br>
+firefox：<a href="https://www.deviantart.com/dpcdpc11/art/Nord-for-Firefox-837860916">Nord for Firefox</a></p>
+<blockquote>
+<p>你没看错这上面是一套的</p>
+</blockquote>
+<p>桌面部件：<a href="https://www.deviantart.com/fediafedia/art/Big-Sur-BETA-2-for-Rainmeter-846882462">Big Sur BETA 2 for Rainmeter</a><br>
+<a href="https://github.com/MarcoPixel/Monstercat-Visualizer/releases/latest">Monstercat Visualizer Screenshot</a><br>
+鼠标：<a href="https://www.deviantart.com/dpcdpc11/art/Simplify-Big-Sur-Windows-Cursors-849700326">Simplify Big Sur Windows Cursors</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1-7]]></title>
         <id>https://Acdar.GitHub.io/post/arknights/</id>
