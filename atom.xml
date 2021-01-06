@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Acdar.GitHub.io</id>
     <title>Acdar</title>
-    <updated>2021-01-06T09:14:32.871Z</updated>
+    <updated>2021-01-06T09:15:34.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Acdar.GitHub.io"/>
     <link rel="self" href="https://Acdar.GitHub.io/atom.xml"/>
@@ -35,8 +35,8 @@ MHW一共有14把武器，每种武器都有各自的特色，操作起来各有
     </entry>
     <entry>
         <title type="html"><![CDATA[密林悍将]]></title>
-        <id>https://Acdar.GitHub.io/post/mi-lin-han-jiang-DESKTOP-IN5KKI5/</id>
-        <link href="https://Acdar.GitHub.io/post/mi-lin-han-jiang-DESKTOP-IN5KKI5/">
+        <id>https://Acdar.GitHub.io/post/mi-lin-han-jiang/</id>
+        <link href="https://Acdar.GitHub.io/post/mi-lin-han-jiang/">
         </link>
         <updated>2020-08-28T09:30:27.000Z</updated>
         <summary type="html"><![CDATA[<p>嗯，又是方舟的。<br>
@@ -49,8 +49,8 @@ MHW一共有14把武器，每种武器都有各自的特色，操作起来各有
     </entry>
     <entry>
         <title type="html"><![CDATA[新的一年，新的桌面]]></title>
-        <id>https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian-DESKTOP-IN5KKI5/</id>
-        <link href="https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian-DESKTOP-IN5KKI5/">
+        <id>https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian/</id>
+        <link href="https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian/">
         </link>
         <updated>2020-07-27T15:10:28.000Z</updated>
         <content type="html"><![CDATA[<p>虽然过了半年才弄好....，但我觉得还挺满意的<br>
@@ -78,8 +78,8 @@ firefox：<a href="https://www.deviantart.com/dpcdpc11/art/Nord-for-Firefox-8378
     </entry>
     <entry>
         <title type="html"><![CDATA[第一个博客]]></title>
-        <id>https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan-DESKTOP-IN5KKI5/</id>
-        <link href="https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan-DESKTOP-IN5KKI5/">
+        <id>https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan/</id>
+        <link href="https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan/">
         </link>
         <updated>2020-07-21T15:58:59.000Z</updated>
         <summary type="html"><![CDATA[<p>既然是第一个网站，那也应该写点东西吧，但感觉没什么好写的...</p>
