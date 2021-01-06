@@ -2,18 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Acdar.GitHub.io</id>
     <title>Acdar</title>
-    <updated>2020-09-01T10:53:48.573Z</updated>
+    <updated>2021-01-06T07:34:43.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Acdar.GitHub.io"/>
     <link rel="self" href="https://Acdar.GitHub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://Acdar.GitHub.io/images/avatar.png</logo>
     <icon>https://Acdar.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Acdar</rights>
+    <rights>All rights reserved 2021, Acdar</rights>
+    <entry>
+        <title type="html"><![CDATA[怪物猎人白金庆祝]]></title>
+        <id>https://Acdar.GitHub.io/post/guai-wu-xi-ren-bai-jin-qing-zhu/</id>
+        <link href="https://Acdar.GitHub.io/post/guai-wu-xi-ren-bai-jin-qing-zhu/">
+        </link>
+        <updated>2020-11-15T14:45:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>玩了好久的怪猎终于白金了，祝贺自己<br>
+<img src="https://divine-feather-1a47.acdar.workers.dev/Image/%E6%80%AA%E7%8C%8E/%E7%99%BD.png?raw=true" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>玩了好久的怪猎终于白金了，祝贺自己<br>
+<img src="https://divine-feather-1a47.acdar.workers.dev/Image/%E6%80%AA%E7%8C%8E/%E7%99%BD.png?raw=true" alt="" loading="lazy"></p>
+<!-- more -->
+<p>不过怪猎白金还真的挺难的，毕竟你玩高玩的内容都是只能完成一半，其他收集要素是真的难，毕竟如果直冲着龙过去你啥也拿不到。</p>
+<h1 id="游戏部分">游戏部分</h1>
+<p>不过大家玩的最主要的要是打架的部分，那我就来说说打架部分吧<br>
+MHW一共有14把武器，每种武器都有各自的特色，操作起来各有不同。不过我也就玩其中几个而已，全玩实在是太累了。太刀帅，双刀攻速快且移动迅速（虽然鬼人乱舞你就呆在那里动不了了），虫棍唯一会飞还带召唤物的虽然经常被乳，铳枪做体操前摇大，后摇大取消动作靠换弹和后跳，导致盾就是个摆设，不过龙击弹还是蛮好玩的，盾斧属性超解，物理大解和电锯算是挺完善的机制了。</p>
+<!-- more -->
+<p>不过全成就与以上内容均无关<br>
+全成就难处在于部落组的关系，找宝藏和拍照片以及大小金<br>
+大小金是真的难毕竟这东西要看你人品<br>
+不过还好我都结束了<br>
+所以就这样了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[密林悍将]]></title>
-        <id>https://Acdar.GitHub.io/post/mi-lin-han-jiang/</id>
-        <link href="https://Acdar.GitHub.io/post/mi-lin-han-jiang/">
+        <id>https://Acdar.GitHub.io/post/mi-lin-han-jiang-DESKTOP-IN5KKI5/</id>
+        <link href="https://Acdar.GitHub.io/post/mi-lin-han-jiang-DESKTOP-IN5KKI5/">
         </link>
         <updated>2020-08-28T09:30:27.000Z</updated>
         <content type="html"><![CDATA[<p>嗯，又是方舟的。<br>
@@ -22,8 +46,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[新的一年，新的桌面]]></title>
-        <id>https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian/</id>
-        <link href="https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian/">
+        <id>https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian-DESKTOP-IN5KKI5/</id>
+        <link href="https://Acdar.GitHub.io/post/xin-de-yi-nian-xin-de-zhuo-mian-DESKTOP-IN5KKI5/">
         </link>
         <updated>2020-07-27T15:10:28.000Z</updated>
         <content type="html"><![CDATA[<p>虽然过了半年才弄好....，但我觉得还挺满意的<br>
@@ -51,8 +75,8 @@ firefox：<a href="https://www.deviantart.com/dpcdpc11/art/Nord-for-Firefox-8378
     </entry>
     <entry>
         <title type="html"><![CDATA[第一个博客]]></title>
-        <id>https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan/</id>
-        <link href="https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan/">
+        <id>https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan-DESKTOP-IN5KKI5/</id>
+        <link href="https://Acdar.GitHub.io/post/di-yi-ge-wang-zhan-DESKTOP-IN5KKI5/">
         </link>
         <updated>2020-07-21T15:58:59.000Z</updated>
         <summary type="html"><![CDATA[<p>既然是第一个网站，那也应该写点东西吧，但感觉没什么好写的...</p>
